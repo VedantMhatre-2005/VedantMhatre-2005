@@ -1,13 +1,112 @@
-Hi! My name is Vedant Mhatre, and I am a third-year undergraduate student in Computer Engineering (Honors in Artifical Intelligence & Machine Learning) at Vivekanand Education Society’s Institute of Technology (VESIT), Mumbai.
+<div align="center">
 
-My academic interests lie primarily in data science, data analysis, machine learning and applied research. I approach software development with a research-oriented mindset, deliberately incorporating open-ended and exploratory components into my projects to facilitate further investigation and extension by researchers and practitioners.
+# Vedant Mhatre
 
-I have professional and research experience in applying machine learning to real-world scientific problems. During my internship at VESIT in December 2024, I worked on a machine learning–based project to classify metal-organic frameworks according to their capacity to absorb atmospheric carbon dioxide, contributing to data-driven material classification efforts. I have also led and developed a research-driven project in forensic dentistry in collaboration with Government Dental College & Hospital, Mumbai, focused on matching postmortem dental radiographs (OPGs and IOPAs) of unidentified victims from mass casualty events with existing antemortem dental records to support human identification. This work integrates image processing and deep learning techniques within a sensitive, real-world forensic context.
+**Computer Engineering (Honors in AI & ML) · VESIT, Mumbai**
 
-Currently, as part of my final year project, I am developing a solution to the traffic optimization problem by fusing classical machine learning and its quantum counterpart. The project is under heavy development with a research paper on the way!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-mhatre-16914b325/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantvmhatre@gmail.com)
+[![Google Student Ambassador](https://img.shields.io/badge/Google_Student_Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white)](#)
 
-My achievements include securing a win in an intra-college hackathon organised by Google Developers Group on Campus, being one of the top 5 teams in an international quantum computing hackathon, and entering the semi-final round of a national-level hackathon organised by Mastek.
+</div>
 
-In addition to technical work, I actively contribute to academic and student communities. I serve as a Public Relations Manager at CodeCell++ VESIT, through which I conducted a structured mentorship program in December 2025 and successfully managed the community's annual intra-college hackathon in March 2026, and I am a published editor in the Newsletter and Public Relations Team of the Computer Engineering Department at VESIT.
+---
 
-Beyond my academic and technical pursuits, I am a profound bibliophile and writer, with a strong appreciation for literature and reflective writing.
+> *"Research, Research and more Research."*
+
+I'm a **third-year undergraduate** in **Computer Engineering (Honors in AI & ML)** at [VESIT, Mumbai](https://vesit.ves.ac.in). I work at the intersection of **machine learning**, **applied research** and **real-world problem solving**, with a research-oriented mindset that treats every project as an open-ended investigation.
+
+---
+
+## 🔬 Research & Projects
+
+### 🦷 Forensic Dental Identification System
+> **Collaboration:** Government Dental College & Hospital, Mumbai
+
+Building a deep learning pipeline to match **postmortem dental radiographs** (OPGs & IOPAs) of unidentified mass-casualty victims with antemortem dental records. Combines image processing, segmentation, and matching networks within an ethically sensitive, real-world forensic context.
+
+`Deep Learning` `Image Processing` `Medical Imaging` `Forensic Science`
+
+---
+
+### 🚦 Quantum-Classical Traffic Optimization *(Final Year Project — In Progress)*
+Fusing **classical ML** with **quantum computing** approaches to tackle the traffic flow optimization problem. A research paper is currently in development.
+
+`Quantum ML` `Graph Optimization` `Hybrid Algorithms` `Research Paper in Progress`
+
+---
+
+### 🌿 Metal-Organic Framework Classification
+> **VESIT Internship · December 2024**
+
+Applied ML to classify MOFs based on their **CO₂ absorption capacity**, contributing to data-driven material discovery for climate and carbon capture applications.
+
+`Machine Learning` `Materials Science` `Climate Tech` `Data Classification`
+
+---
+
+## 🏆 Achievements
+
+| | Achievement |
+|---|---|
+| 🥇 | **Hackathon Win** — TechSprint (Google Developers Group on Campus) |
+| 🌐 | **Top 5 Teams** — QVolution Global Quantum Computing Hackathon |
+| 🏅 | **Semi-finalist** — Project Deep Blue Season 10 (Mastek) |
+| 🎓 | **Google Student Ambassador** — Accepted into the Google Student Ambassador Program |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Database Management**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**ML & Data Science**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Quantum Computing**
+
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+---
+
+## 🌱 Community & Leadership
+
+**Public Relations Manager at CodeCell++ VESIT**
+- 🧑‍🏫 Conducted a structured **mentorship program** for junior students *(December 2025)*
+- 🎯 Managed and successfully led the annual **intra-college hackathon** *(March 2026)*
+
+**Editor in the Newsletter & PR Team, Computer Engineering Dept., VESIT**
+- ✍️ Published editor contributing to departmental communications and student outreach
+
+---
+
+## ✍️ Beyond the Code
+
+When I'm not training models or writing research, I'm a **bibliophile and writer** — drawn to literature, reflective essays, and the art of putting complex ideas into words. I believe good writing and good research share the same core discipline: **clarity of thought**.
+
+---
+
+<div align="center">
+
+*Thanks for visiting! Feel free to explore my repositories or reach out — I'm always open to research collaborations and interesting conversations.*
+
+</div>
