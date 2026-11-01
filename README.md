@@ -1,112 +1,216 @@
+ <!-- ========================================================= -->
+<!--                  VEDANT MHATRE - PROFILE                  -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-# Vedant Mhatre
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Vedant%20Mhatre&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Researcher%20%7C%20Quantum%20Computing%20Enthusiast&descAlignY=60&descSize=16" width="100%"/>
 
-**Computer Engineering (Honors in AI & ML) · VESIT, Mumbai**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=AI%2FML+Researcher;Deep+Learning+Enthusiast;Quantum+Computing+Researcher;Exploring+Transformers+%26+Foundation+Models;Bridging+AI%2C+Science+%26+Engineering)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-mhatre-16914b325/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantvmhatre@gmail.com)
-[![Google Student Ambassador](https://img.shields.io/badge/Google_Student_Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white)](#)
+<br/>
+
+<a href="mailto:2023.vedant.mhatre@ves.ac.in">
+<img src="https://img.shields.io/badge/Academic_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="mailto:vedantvmhatre@gmail.com">
+<img src="https://img.shields.io/badge/Personal_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/vedant-mhatre-16914b325/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/VedantMhatre-2005">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=VedantMhatre-2005&style=for-the-badge&color=203A43" alt="Profile views"/>
 
 </div>
 
 ---
 
-> *"Research, Research and more Research."*
+## About Me
 
-I'm a **third-year undergraduate** in **Computer Engineering (Honors in AI & ML)** at [VESIT, Mumbai](https://vesit.ves.ac.in). I work at the intersection of **machine learning**, **applied research** and **real-world problem solving**, with a research-oriented mindset that treats every project as an open-ended investigation.
+I'm **Vedant Mhatre**, a Computer Engineering undergraduate specializing in Artificial Intelligence and Machine Learning at Vivekanand Education Society's Institute of Technology (VESIT), Mumbai.
 
----
+My interests lie at the intersection of machine learning, scientific computing, and emerging computational paradigms. I enjoy developing intelligent systems that combine deep learning, graph representations, transformer architectures, and quantum computing.
 
-## 🔬 Research & Projects
-
-### 🦷 Forensic Dental Identification System
-> **Collaboration:** Government Dental College & Hospital, Mumbai
-
-Building a deep learning pipeline to match **postmortem dental radiographs** (OPGs & IOPAs) of unidentified mass-casualty victims with antemortem dental records. Combines image processing, segmentation, and matching networks within an ethically sensitive, real-world forensic context.
-
-`Deep Learning` `Image Processing` `Medical Imaging` `Forensic Science`
-
----
-
-### 🚦 Quantum-Classical Traffic Optimization *(Final Year Project — In Progress)*
-Fusing **classical ML** with **quantum computing** approaches to tackle the traffic flow optimization problem. A research paper is currently in development.
-
-`Quantum ML` `Graph Optimization` `Hybrid Algorithms` `Research Paper in Progress`
+- 🎓 B.E. Computer Engineering (Honors in AI & ML), VESIT.
+- 📊 CGPA: **9.98/10** (up to Semester VI).
+- 🧠 Research interests: Scientific ML, Transformers, Foundation Models, Quantum ML and Optimization.
+- 🔬 Research experience at the Max Planck Institute for Psycholinguistics, Netherlands.
+- 📄 Research accepted at **ICMLDE 2026 – Procedia Computer Science, Elsevier**.
+- 🌍 Based in Mumbai, India.
+- 💼 Available for a **6-month research internship (January–June 2027)**.
 
 ---
 
-### 🌿 Metal-Organic Framework Classification
-> **VESIT Internship · December 2024**
-
-Applied ML to classify MOFs based on their **CO₂ absorption capacity**, contributing to data-driven material discovery for climate and carbon capture applications.
-
-`Machine Learning` `Materials Science` `Climate Tech` `Data Classification`
-
----
-
-## 🏆 Achievements
-
-| | Achievement |
-|---|---|
-| 🥇 | **Hackathon Win** — TechSprint (Google Developers Group on Campus) |
-| 🌐 | **Top 5 Teams** — QVolution Global Quantum Computing Hackathon |
-| 🏅 | **Semi-finalist** — Project Deep Blue Season 10 (Mastek) |
-| 🎓 | **Google Student Ambassador** — Accepted into the Google Student Ambassador Program |
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Database Management**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**ML & Data Science**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Quantum Computing**
-
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-
----
-
-## 🌱 Community & Leadership
-
-**Public Relations Manager at CodeCell++ VESIT**
-- 🧑‍🏫 Conducted a structured **mentorship program** for junior students *(December 2025)*
-- 🎯 Managed and successfully led the annual **intra-college hackathon** *(March 2026)*
-
-**Editor in the Newsletter & PR Team, Computer Engineering Dept., VESIT**
-- ✍️ Published editor contributing to departmental communications and student outreach
-
----
-
-## ✍️ Beyond the Code
-
-When I'm not training models or writing research, I'm a **bibliophile and writer** — drawn to literature, reflective essays, and the art of putting complex ideas into words. I believe good writing and good research share the same core discipline: **clarity of thought**.
-
----
+## Research Interests
 
 <div align="center">
 
-*Thanks for visiting! Feel free to explore my repositories or reach out — I'm always open to research collaborations and interesting conversations.*
+| Research Area | Focus |
+|:---:|:---|
+| 🧠 Machine Learning | ML for scientific and engineering data |
+| 🔤 Transformers | Foundation models and speech technologies |
+| ⚛️ Quantum Computing | Quantum-enhanced ML and optimization |
+| 🌐 Graph Learning | Spatiotemporal learning and graph neural networks |
+| 🔬 Interdisciplinary AI | Applying deep learning to real-world scientific problems |
+
+</div>
+
+---
+
+## Research Experience
+
+### Max Planck Institute for Psycholinguistics, Netherlands
+
+**Summer School Student / Research Intern** | May 2026 – July 2026
+
+- Explored speech technology and automatic speech recognition for low-resource languages.
+- Investigated fine-tuning Whisper on code-mixed Hindi-English speech.
+- Benchmarked fine-tuning approaches against textual prompt injection.
+
+### VESIT × Government Dental College & Hospital, Mumbai
+
+**Computer Vision & Deep Learning Research Intern** | May 2025 – July 2025
+
+- Led the deep learning pipeline for a forensic dentistry project involving human identification using postmortem dental radiographs.
+- Developed an ensemble of EfficientNet-B0, EfficientNet-B3 and ConvNeXt.
+- Achieved **74% Rank-1 and 90% Rank-5 accuracy**.
+
+---
+
+## Research Publications
+
+📄 **A quantum-enhanced graph learning framework for edge-level traffic forecasting and QAOA-based congestion rerouting**
+
+- Accepted at **ICMLDE 2026**.
+- Publication: *Procedia Computer Science, Elsevier*.
+- Scopus Indexed.
+
+---
+
+## Featured Projects
+
+### 1. Forensodont – AI-Driven Dental Radiograph Matching
+
+An AI-powered framework for forensic human identification using antemortem and postmortem dental radiographs.
+
+- Led the OPG deep learning pipeline and IOPA matching methodology.
+- Developed an EfficientNet-B1/B3 and ConvNeXt-Base ensemble.
+- Integrated CNN representations with classical feature fusion.
+- Achieved 74% Rank-1 and 90% Rank-5 accuracy.
+
+### 2. STQGCN – Quantum Graph Learning for Traffic Forecasting
+
+A spatiotemporal quantum graph convolutional network for edge-level traffic congestion forecasting and quantum-assisted rerouting.
+
+- Integrated graph message passing with a Variational Quantum Circuit.
+- Benchmarked against LSTM and classical STGCN architectures.
+- Developed a Binary Particle Swarm Optimization rerouting baseline.
+- Evaluated QAOA and classical optimization across 45 traffic scenarios.
+- Contributed to a framework achieving 13–22% median peak-occupancy reduction.
+
+---
+
+## Technical Skills
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c" />
+
+### Machine Learning & Deep Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+
+### Generative AI & Development
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,js,docker,git,github" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+### Quantum Computing
+
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/PennyLane-6F42C1?style=for-the-badge&logoColor=white"/>
+
+### Frameworks & Tools
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-0A9396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+</div>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VedantMhatre-2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantMhatre-2005&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=VedantMhatre-2005&theme=tokyonight&hide_border=true" width="65%"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VedantMhatre-2005&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+### Watch my contributions come alive!
+
+<img src="https://raw.githubusercontent.com/VedantMhatre-2005/VedantMhatre-2005/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake Animation"/>
+
+</div>
+
+---
+
+## Achievements & Certifications
+
+- 🏆 **Winner** – TechSprint Open Innovation Hackathon, GDG On Campus × Hack2Skill (2026).
+- ⚛️ **Top 5** – QVolution Global Quantum Computing Hackathon, Girls in Quantum × Quandela (2026).
+- 🎓 **Qiskit Advocate**, IBM Quantum – Co-organized Qiskit Fall Fest 2026 at VESIT.
+- 📜 **80%** – NPTEL Quantum Computation and Quantum Information (2026).
+- 🌐 **IELTS Academic: 8.5/9.0** – CEFR C2 (2026).
+
+---
+
+## Let's Connect!
+
+I'm always interested in discussing research opportunities, collaborative projects, machine learning, quantum computing, and interdisciplinary applications of AI.
+
+<div align="center">
+
+**Have an interesting research problem or project in mind? Let's connect!**
+
+<a href="mailto:2023.vedant.mhatre@ves.ac.in">
+<img src="https://img.shields.io/badge/Let's%20Collaborate-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/vedant-mhatre-16914b325/">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer"/>
 
 </div>
