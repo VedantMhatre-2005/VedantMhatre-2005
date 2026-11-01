@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Vedant%20Mhatre&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Researcher%20%7C%20Quantum%20Computing%20Enthusiast&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Vedant%20Mhatre&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Researcher%20%7C%20&descAlignY=60&descSize=16" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=AI%2FML+Researcher;Deep+Learning+Enthusiast;Quantum+Computing+Researcher;Exploring+Transformers+%26+Foundation+Models;Bridging+AI%2C+Science+%26+Engineering)](https://git.io/typing-svg)
 
